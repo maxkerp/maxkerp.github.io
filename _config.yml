@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: $ vim thoughts.md
+title: thoughts.md
 email: maxkerp@gmail.com
 description: >
   My place to ramble about code, ideas, and life.
@@ -17,8 +17,9 @@ paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'Max Kerp'
 bio: >
-  I'm almost done studying computer science and currently working part time
-  as a rails developer at taktsoft. I love to learn things, that make life easier.
+  I'm almost done studying computer science and I currently work part time
+  as a rails developer at <a target="_blank" href="http://taktsoft.com">taktsoft</a>.
+  I love to learn things, that make life easier.
   Currently i'm playing around with web components and related
   projects like angular, ember, react and vue.
 author_image: "/assets/images/author.jpg"

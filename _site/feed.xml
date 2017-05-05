@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>$ vim thoughts.md</title>
+    <title>thoughts.md</title>
     <description>My place to ramble about code, ideas, and life.
 </description>
     <link>http://maxkerp.github.io/</link>
     <atom:link href="http://maxkerp.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 May 2017 17:53:24 +0200</pubDate>
-    <lastBuildDate>Fri, 05 May 2017 17:53:24 +0200</lastBuildDate>
+    <pubDate>Fri, 05 May 2017 18:05:23 +0200</pubDate>
+    <lastBuildDate>Fri, 05 May 2017 18:05:23 +0200</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
